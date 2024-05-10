@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368396061530",
+    "project_id": "secondbrand-db",
+    "storage_bucket": "secondbrand-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368396061530:android:4d1ab7c35678304ec78163",
+        "android_client_info": {
+          "package_name": "com.example.secondbrand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS89Adryy8fymGKOy69WGHNmgQQCUyLIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
